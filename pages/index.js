@@ -1,5 +1,5 @@
 function Home(){
-    return  <h1>Chefs Station Site</h1>
+    return  <h1>Chefs Station Site - por YorkDecor</h1>
 }
 
 export default Home

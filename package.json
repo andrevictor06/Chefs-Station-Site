@@ -1,0 +1,25 @@
+{
+  "name": "Chefs-Station-Site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrevictor06/Chefs-Station-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrevictor06/Chefs-Station-Site/issues"
+  },
+  "homepage": "https://github.com/andrevictor06/Chefs-Station-Site#readme",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
